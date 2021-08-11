@@ -12,10 +12,10 @@ Fig.1. The Box-plot/Statistical separability analysis figure for hyperspectral a
 
 # Source
 **Related Papers:**
-- [https://ieeexplore.ieee.org/abstract/document/9404853](Multipixel Anomaly Detection With Unknown Patterns for Hyperspectral Imagery)
-- [https://www.sciengine.com/publisher/scp/journal/SCIS/doi/10.1007/s11432-020-2915-2?slug=abstract](Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection)
-- [https://ieeexplore.ieee.org/document/9469924](Hyperspectral Change Detection Based on Multiple Morphological Profiles)
-- [https://ieeexplore.ieee.org/document/9451632](Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection)
+- [Multipixel Anomaly Detection With Unknown Patterns for Hyperspectral Imagery](https://ieeexplore.ieee.org/abstract/document/9404853)
+- [Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection](https://www.sciengine.com/publisher/scp/journal/SCIS/doi/10.1007/s11432-020-2915-2?slug=abstract)
+- [Hyperspectral Change Detection Based on Multiple Morphological Profiles](https://ieeexplore.ieee.org/document/9469924)
+- [Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection](https://ieeexplore.ieee.org/document/9451632)
 
 
 # Citation

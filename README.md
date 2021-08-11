@@ -23,19 +23,22 @@ If these code is helpful for you, please cite  the following papers:
 
 **BibTex Format:**<br />
 ```
-
+@article{liu2021multipixel,
+  title={Multipixel Anomaly Detection With Unknown Patterns for Hyperspectral Imagery},
+  author={Liu, Jun and Hou, Zengfu and Li, Wei and Tao, Ran and Orlando, Danilo and Li, Hongbin},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2021},
+  publisher={IEEE}
+}
 ```
-
-
-
-
-
-
-
-
-
-
-
+```
+@article{houcollaborative,
+  title={Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection},
+  author={Hou, Zengfu and Wei, Li and Tao, Ran and SHI, Weihua},
+  journal={SCIENCE CHINA Information Sciences},
+  publisher={Science China Press}
+}
+```
 ```
 @ARTICLE{9469924,
 author={Hou, Zengfu and Li, Wei and Li, Lu and Tao, Ran and Du, Qian},
@@ -46,6 +49,17 @@ volume={},
 number={},
 pages={1-12},
 doi={10.1109/TGRS.2021.3090802}}
+```
+```
+@article{hou2021three,
+  title={Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection},
+  author={Hou, Zengfu and Li, Wei and Tao, Ran and Du, Qian},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={14},
+  pages={6194--6205},
+  year={2021},
+  publisher={IEEE}
+}
 ```
 
 **Plain Text Format:**<br />

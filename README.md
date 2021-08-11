@@ -79,15 +79,13 @@ doi={10.1109/TGRS.2021.3090802}}
 
 **Plain Text Format:**<br />
 ```
-- J. Liu, Z. Hou, W. Li, R. Tao, D. Orlando and H. Li, "Multipixel Anomaly Detection With Unknown Patterns for Hyperspectral Imagery," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2021.3071026.
+[1] J. Liu, Z. Hou, W. Li, R. Tao, D. Orlando and H. Li, "Multipixel Anomaly Detection With Unknown Patterns for Hyperspectral Imagery," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2021.3071026.
+[2]Z. Hou, W. Li, L. Gao, B. Zhang, P. Ma and J. Sun, "A Background Refinement Collaborative Representation Method with Saliency Weight for Hyperspectral Anomaly Detection," IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, 2020, pp. 2412-2415, doi: 10.1109/IGARSS39084.2020.9324521.
 
-- Z. Hou, W. Li, L. Gao, B. Zhang, P. Ma and J. Sun, "A Background Refinement Collaborative Representation Method with Saliency Weight for Hyperspectral Anomaly Detection," IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, 2020, pp. 2412-2415, doi: 10.1109/IGARSS39084.2020.9324521.
+[3]Z. Hou, W. Li, L. Li, R. Tao and Q. Du, "Hyperspectral Change Detection Based on Multiple Morphological Profiles," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3090802.
+[4] Z. Hou, W. Li, R. Tao and Q. Du, "Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 6194-6205, 2021, doi: 10.1109/JSTARS.2021.3088438.
 
-- Z. Hou, W. Li, L. Li, R. Tao and Q. Du, "Hyperspectral Change Detection Based on Multiple Morphological Profiles," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3090802.
-
-- Z. Hou, W. Li, R. Tao and Q. Du, "Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 6194-6205, 2021, doi: 10.1109/JSTARS.2021.3088438.
-
-- Zhao, X., Hou, Z., Wu, X., Li, W., Ma, P. and Tao, R., 2021. Hyperspectral target detection based on transform domain adaptive constrained energy minimization. International Journal of Applied Earth Observation and Geoinformation, 103, p.102461.
+[5]Zhao, X., Hou, Z., Wu, X., Li, W., Ma, P. and Tao, R., 2021. Hyperspectral target detection based on transform domain adaptive constrained energy minimization. International Journal of Applied Earth Observation and Geoinformation, 103, p.102461.
 
 ```
 

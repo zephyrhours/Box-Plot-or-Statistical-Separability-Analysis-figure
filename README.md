@@ -3,6 +3,7 @@ This is a demo program for Box-plot figure or statistical separability analysis 
 
 **Example:**<br />
 <img src="Box_LosAngeles.jpg" alt="Box-plot">
+
 Fig.1. The Box-plot/Statistical separability analysis figure for hyperspectral anomaly detection.
 
 
